@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/zardrick/qr-code-component)
+- Live Site URL: (https://zardrick.github.io/qr-code-component/)
 
 ## My process
 
@@ -62,8 +62,9 @@ I plan to continue improving my responsiveness skills by working on more **mobil
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@zardrick](https://www.frontendmentor.io/profile/zardrick)
+- Github - [@zardrick] (https://github.com/zardrick)
+- Twitter - [@zardrick1](https://x.com/zardrick1)
 
 ## Acknowledgments
 
