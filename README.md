@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop View](./desktop-design.jpg)
-![Mobile View](./mobile-design.jpg)
+![Desktop View](./design/desktop-design.jpg)  
+![Mobile View](./design/mobile-design.jpg)
 
 ### Links
 
@@ -63,7 +63,7 @@ I plan to continue improving my responsiveness skills by working on more **mobil
 ## Author
 
 - Frontend Mentor - [@zardrick](https://www.frontendmentor.io/profile/zardrick)
-- Github - [@zardrick] (https://github.com/zardrick)
+- Github - [@zardrick](https://github.com/zardrick)
 - Twitter - [@zardrick1](https://x.com/zardrick1)
 
 ## Acknowledgments
